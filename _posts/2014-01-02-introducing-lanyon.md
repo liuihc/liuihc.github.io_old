@@ -3,7 +3,7 @@ layout: post
 title: 最新记录
 ---
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+今天是2014年7月18日 ，天气请问[百度](http://baidu.com)。
 
 ### Built on Poole
 
