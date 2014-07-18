@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            BoLau
 tagline:          '作记录的地方'
-description:      '<a href="http://weibo.com/liuihc" target="_blank">BoLau</a>用来记录胡思乱想的地方 '
+description:      '<a href="http://weibo.com/liuihc" target="_blank">BoLau</a><br/>用来记录胡思乱想的地方 '
 url:              http://lanyon.getpoole.com
 baseurl:          '/'
 paginate:         5
