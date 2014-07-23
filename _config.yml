@@ -1,6 +1,7 @@
 # Dependencies
 markdown:         redcarpet
-#pygments:         true
+
+#permalink:        pretty
 permalink:        date
 
 include:     	  ['.htaccess']
