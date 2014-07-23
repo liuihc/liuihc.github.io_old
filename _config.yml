@@ -1,6 +1,8 @@
 # Dependencies
 markdown:         redcarpet
+pygments:         true
 
+# Permalinks
 #permalink:        pretty
 permalink:        date
 
@@ -8,6 +10,7 @@ include:     	  ['.htaccess']
 
 timezone:  		  Asia/Shanghai
 lsi:			  true
+
 
 # Permalinks
 permalink:        pretty
