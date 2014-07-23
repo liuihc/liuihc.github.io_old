@@ -3,16 +3,13 @@ markdown:         redcarpet
 pygments:         true
 
 # Permalinks
-permalink:        /blog/:year/:month/:day/:titl
+permalink:        date
 
-include:     	  ['.htaccess']
+include:          ['.htaccess']
 
-timezone:  		  Asia/Shanghai
-lsi:			  true
+timezone:         Asia/Shanghai
+lsi:              true
 
-
-# Permalinks
-permalink:        pretty
 
 # Setup
 title:            BoLau
