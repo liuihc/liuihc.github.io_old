@@ -1,6 +1,12 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+#pygments:         true
+permalink:        date
+
+include:     	  ['.htaccess']
+
+timezone:  		  Asia/Shanghai
+lsi:			  true
 
 # Permalinks
 permalink:        pretty
@@ -22,3 +28,13 @@ version:          1.0.0
 
 github:
   repo:           http://weibo.com/liuihc
+
+pygments: true
+markdown: redcarpet
+redcarpet:
+  extensions:
+    - hard_wrap
+    - no_intra_emphasis
+    - autolink
+    - strikethrough
+    - fenced_code_blocks
