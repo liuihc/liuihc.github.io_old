@@ -15,19 +15,19 @@ lsi:              true
 title:            Close
 tagline:          ''
 description:      'It's all over'
-url:              http://weibo.com/liuihc
+url:              
 baseurl:          '/'
 paginate:         2
 
 author:
   name:           'BoLau'
-  url:            http://weibo.com/liuihc
+  url:            
 
 # Custom vars
 version:          1.0.0
 
 github:
-  repo:           http://weibo.com/liuihc
+  repo:           
 
 pygments: true
 markdown: redcarpet
