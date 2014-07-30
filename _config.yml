@@ -14,7 +14,7 @@ lsi:              true
 # Setup
 title:            Close
 tagline:          ''
-description:      'It's all over'
+description:      'Over'
 url:              
 baseurl:          '/'
 paginate:         2
