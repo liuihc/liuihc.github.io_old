@@ -14,7 +14,7 @@ lsi:              true
 # Setup
 title:            我的属性
 tagline:          ''
-description:      'Over'
+description:      '我的属性'
 url:              
 baseurl:          '/'
 paginate:         2
