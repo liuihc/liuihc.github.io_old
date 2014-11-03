@@ -1,0 +1,40 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        date
+
+include:          ['.htaccess']
+
+timezone:         Asia/Shanghai
+lsi:              true
+
+
+# Setup
+title:            私人属性
+tagline:          '一个上了年纪的大爷写字的地方'
+description:      '<a href="http://weibo.com/liuihc" target="_blank">上了年纪的大爷</a>'
+url:              
+baseurl:          '/'
+paginate:         2
+
+author:
+  name:           'BoLau'
+  url:            
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           
+
+pygments: true
+markdown: redcarpet
+redcarpet:
+  extensions:
+    - hard_wrap
+    - no_intra_emphasis
+    - autolink
+    - strikethrough
+    - fenced_code_blocks
