@@ -12,15 +12,15 @@ lsi:              true
 
 
 # Setup
-title:            礼拜到我这
-tagline:          '一个上了年纪的大爷写字的地方'
-description:      '<a href="http://weibo.com/liuihc" target="_blank">上了年纪的大爷</a>'
+title:            Never say die
+tagline:          '如题'
+description:      ''
 url:              
 baseurl:          '/'
 paginate:         2
 
 author:
-  name:           'BoLau'
+  name:           'Brandon'
   url:            
 
 # Custom vars
