@@ -14,7 +14,7 @@ lsi:              true
 # Setup
 title:            Never say die
 tagline:          '如题'
-description:      ''
+description:      'Never say die'
 url:              
 baseurl:          '/'
 paginate:         2
